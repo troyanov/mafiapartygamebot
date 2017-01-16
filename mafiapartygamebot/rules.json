@@ -1,0 +1,84 @@
+{
+    "1": {
+        "mafia": 1
+    },
+    "2": {
+        "mafia": 1,
+        "detective": 1
+    },
+    "3": {
+        "mafia": 1,
+        "doctor": 1,
+        "prostitute": 1
+    },
+    "4": {
+        "mafia": 1,
+        "doctor": 1,
+        "prostitute": 1,
+        "civilian": 1
+    },
+    "5": {
+        "mafia": 1,
+        "doctor": 1,
+        "prostitute": 1,
+        "civilian": 2
+    },
+    "6": {
+        "mafia": 2,
+        "doctor": 1,
+        "prostitute": 1,
+        "detective": 1,
+        "civilian": 1
+    },
+    "7": {
+        "mafia": 2,
+        "doctor": 1,
+        "prostitute": 1,
+        "detective": 1,
+        "civilian": 2
+    },
+    "8": {
+        "mafia": 2,
+        "doctor": 1,
+        "prostitute": 1,
+        "detective": 1,
+        "civilian": 2,
+        "killer": 1
+    },
+   "9": {
+        "godfather": 1,
+        "mafia": 2,
+        "doctor": 1,
+        "prostitute": 1,
+        "detective": 1,
+        "civilian": 2,
+        "killer": 1
+    },
+    "10": {
+        "godfather": 1,
+        "mafia": 2,
+        "doctor": 1,
+        "prostitute": 1,
+        "detective": 1,
+        "civilian": 3,
+        "killer": 1
+    },
+    "11": {
+        "godfather": 1,
+        "mafia": 3,
+        "doctor": 1,
+        "prostitute": 1,
+        "detective": 1,
+        "civilian": 3,
+        "killer": 1
+    },
+    "12": {
+        "godfather": 1,
+        "mafia": 3,
+        "doctor": 1,
+        "prostitute": 1,
+        "detective": 1,
+        "civilian": 4,
+        "killer": 1
+    }
+}
